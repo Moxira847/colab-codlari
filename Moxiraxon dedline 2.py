@@ -1,8 +1,4 @@
-
-
 import numpy as np
-
-
 array_sonlar=np.array([12,34,23,4,6,7])
 array_sonlar2=np.array([[12,34,27],[12,34,56]])
 
